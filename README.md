@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 I regularly write articles on [https://substack.com/@eastdev](https://substack.com/@eastdev)
 
 - 💬 Ask me about **What I am learning (I am still a new developer)**
 
